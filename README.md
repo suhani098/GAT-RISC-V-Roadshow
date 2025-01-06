@@ -4,6 +4,9 @@ Installation of the virtual box and setting up platformIOE in vscode
 ![image](https://github.com/user-attachments/assets/1aa844cb-d5af-4305-a64d-2e637f6a87b5)
 
 
+
+
+
 TASK-1 : To look into the C based lab videos and Risc-v based lab videos and check how the c-code will compile in gcc and riscv gcc envirorment
 
 ![image](https://github.com/user-attachments/assets/e817e563-b96e-464f-8817-c7d2a01ff5ea)
