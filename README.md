@@ -7,7 +7,7 @@
 
 
 
-TASK-1 : To look into the C based lab videos and Risc-v based lab videos and check how the c-code will compile in gcc and riscv gcc :
+## TASK-1 : To look into the C based lab videos and Risc-v based lab videos and check how the c-code will compile in gcc and riscv gcc :
 
 The code is first typed in leafpad editor 
 
