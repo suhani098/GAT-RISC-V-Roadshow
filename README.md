@@ -7,20 +7,15 @@ Installation of the virtual box and setting up platformIOE in vscode
 
 
 
-TASK-1 : To look into the C based lab videos and Risc-v based lab videos and check how the c-code will compile in gcc and riscv gcc envirorment
+TASK-1 : To look into the C based lab videos and Risc-v based lab videos and check how the c-code will compile in gcc and riscv gcc :
 
-![image](https://github.com/user-attachments/assets/e817e563-b96e-464f-8817-c7d2a01ff5ea)
-The code run using gcc compiler
+The code is first typed in leafpad editor 
 
-![image](https://github.com/user-attachments/assets/fd9308c5-b005-424e-8fea-89f2eb20ddfc)
+
 the c-code is run in risc-v compiler using -O1 optimization flag
-
-![image](https://github.com/user-attachments/assets/1d2a25a3-c96d-4fb7-bcac-e815439a5d0a)
 it is seen here at the main block the number of instruction set is 15 
 
 next in similar way we will run the c-code in risc-v compiler using -Ofast optimization flag
-
-![image](https://github.com/user-attachments/assets/6c66585a-2dcb-4b4f-82e2-bfba346b83e2)
 it can be seen that the number of instruction from has reduced to 12 instruction set , we can say that the processing speed increases
 
 
